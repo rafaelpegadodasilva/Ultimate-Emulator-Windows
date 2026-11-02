@@ -1,0 +1,23 @@
+{
+  "melondsds_libretro.dll": "melonDS DS",
+  "flycast_libretro.dll": "Flycast",
+  "a5200_libretro.dll": "a5200",
+  "mame2003_plus_libretro.dll": "MAME 2003-Plus",
+  "atari800_libretro.dll": "Atari800",
+  "prosystem_libretro.dll": "ProSystem",
+  "stella_libretro.dll": "Stella",
+  "swanstation_libretro.dll": "SwanStation",
+  "mgba_libretro.dll": "mGBA",
+  "mupen64plus_next_libretro.dll": "Mupen64Plus-Next",
+  "genesis_plus_gx_libretro.dll": "Genesis Plus GX",
+  "picodrive_libretro.dll": "PicoDrive",
+  "opera_libretro.dll": "Opera",
+  "gambatte_libretro.dll": "Gambatte",
+  "mednafen_saturn_libretro.dll": "Beetle Saturn",
+  "mednafen_psx_libretro.dll": "Beetle PSX",
+  "ppsspp_libretro.dll": "PPSSPP",
+  "yabasanshiro_libretro.dll": "YabaSanshiro",
+  "snes9x_libretro.dll": "Snes9x",
+  "hatari_libretro.dll": "hatari",
+  "nestopia_libretro.dll": "Nestopia"
+}

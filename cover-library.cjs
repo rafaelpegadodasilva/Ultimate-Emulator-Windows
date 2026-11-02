@@ -1,0 +1,12 @@
+'use strict';
+const fs=require('fs'),path=require('path'),crypto=require('crypto'),match=require('./cover-match-v3');
+const hash=s=>crypto.createHash('sha256').update(s).digest('hex');
+function create(capas,roms){const folder=path.join(capas,'Catalog');const file=path.join(folder,'catalog.json');let loaded=null,stamp=0;function db(){try{const t=fs.statSync(file).mtimeMs;if(!loaded||t!==stamp){loaded=JSON.parse(fs.readFileSync(file,'utf8'));stamp=t;}}catch{if(!loaded)loaded={version:1,entries:{}};}return loaded;}
+ function identity(rom,hint={}){const rel=path.relative(roms,rom);const parts=rel.split(path.sep);const system=hint.systemFolder||(!rel.startsWith('..')?parts[0]:'');const base=path.parse(rom).name;const names=[base,/^eboot$/i.test(base)?path.basename(path.dirname(rom)):'',hint.title||''].filter(Boolean);return {system,keys:[...new Set(names.map(x=>system+'|'+match.normalize(x)))]};}
+ function get(rom,hint={}){const d=db();for(const key of identity(rom,hint).keys){const e=d.entries[key];if(e?.image){const full=path.resolve(folder,e.image);if(full.startsWith(folder+path.sep)&&fs.existsSync(full))return full;}}return null;}
+ function register(rom,image,hint={}){const bytes=fs.readFileSync(image);if(bytes.length>8*1024*1024)throw Error('Cover too large');const ext=path.extname(image).toLowerCase();const id=hash(bytes)+ext;const dest=path.join(folder,'images',id);fs.mkdirSync(path.dirname(dest),{recursive:true});if(!fs.existsSync(dest))fs.writeFileSync(dest,bytes);const d=db();for(const key of identity(rom,hint).keys)d.entries[key]={image:'images/'+id,title:hint.title||path.parse(rom).name,catalog:hint.catalog||null,sourceName:hint.sourceName||path.basename(image),url:hint.url||null,registered:new Date().toISOString()};fs.mkdirSync(folder,{recursive:true});fs.writeFileSync(file+'.new',JSON.stringify(d,null,2));fs.renameSync(file+'.new',file);stamp=fs.statSync(file).mtimeMs;return dest;}
+ function indexPath(catalog,type){return path.join(folder,'indexes',hash(catalog+'/'+type).slice(0,24)+'.json');}
+ function readIndex(catalog,type){try{return JSON.parse(fs.readFileSync(indexPath(catalog,type),'utf8')).names||[];}catch{return [];}}
+ function saveIndex(catalog,type,names){if(!names.length)return;const p=indexPath(catalog,type);fs.mkdirSync(path.dirname(p),{recursive:true});fs.writeFileSync(p,JSON.stringify({catalog,type,date:new Date().toISOString(),names}));}
+ return {get,register,readIndex,saveIndex,identity};}
+module.exports={create};

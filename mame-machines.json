@@ -1,0 +1,5567 @@
+{
+  "1942": {
+    "name": "1942 (Revision B)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "aburner2": {
+    "name": "After Burner II (VER 2.00, deluxe/upright)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "aerofgt": {
+    "name": "Aero Fighters (World / USA + Canada / Korea / Hong Kong / Taiwan) (newer hardware)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "aleck64": {
+    "name": "Aleck64 PIF BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "aliens": {
+    "name": "Aliens (World set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "aof2": {
+    "name": "Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "aof3": {
+    "name": "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "avsp": {
+    "name": "Alien vs. Predator (Europe 940520)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "avsph": {
+    "name": "Alien vs. Predator (Hispanic 940520)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "avsp"
+  },
+  "batman": {
+    "name": "Batman",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "bbmanw": {
+    "name": "Bomber Man World / New Dyna Blaster - Global Quest",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "blazstar": {
+    "name": "Blazing Star",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "bloxeed": {
+    "name": "Bloxeed (Japan) (FD1094 317-0139)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "blzntrnd": {
+    "name": "Blazing Tornado",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "bombjack": {
+    "name": "Bomb Jack",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "bombrman": {
+    "name": "Bomber Man (Japan)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "dynablst"
+  },
+  "bssoccer": {
+    "name": "Back Street Soccer (KRB-0031 PCB)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "btime": {
+    "name": "Burger Time (Data East set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "btlkroad": {
+    "name": "Battle K-Road",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "bubl2000": {
+    "name": "Bubble 2000",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "burningf": {
+    "name": "Burning Fight (NGM-018 ~ NGH-018)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "captcommr1": {
+    "name": "Captain Commando (World 911014)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "captcomm"
+  },
+  "cbuster": {
+    "name": "Crude Buster (World FX version)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "centiped": {
+    "name": "Centipede (revision 4)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "crimec": {
+    "name": "Crime City (World)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "crimfght": {
+    "name": "Crime Fighters (World 2 players)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "dbz2": {
+    "name": "Dragon Ball Z 2 - Super Battle",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "ddragon": {
+    "name": "Double Dragon (World set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "ddragon2": {
+    "name": "Double Dragon II: The Revenge (World)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "ddsom": {
+    "name": "Dungeons & Dragons: Shadow over Mystara (Europe 960619)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "deadconx": {
+    "name": "Dead Connection (World)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "digdug": {
+    "name": "Dig Dug (rev 2)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "digdug2": {
+    "name": "Dig Dug II (New Ver.)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "dino": {
+    "name": "Cadillacs and Dinosaurs (World 930201)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "dkong": {
+    "name": "Donkey Kong (US set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "dkongjr": {
+    "name": "Donkey Kong Junior (US set F-2)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "doubledr": {
+    "name": "Double Dragon (Neo-Geo)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "extdwnhl": {
+    "name": "Extreme Downhill (v1.5)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "f1en": {
+    "name": "F1 Exhaust Note (World, Rev A)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "fatfursp": {
+    "name": "Fatal Fury Special / Garou Densetsu Special (NGM-058 ~ NGH-058, set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "fatfury3": {
+    "name": "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - Haruka-naru Tatakai (NGM-069 ~ NGH-069)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "ffight": {
+    "name": "Final Fight (World, set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "frogger": {
+    "name": "Frogger",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "ga2": {
+    "name": "Golden Axe: The Revenge of Death Adder (World, Rev B)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "gaiden": {
+    "name": "Ninja Gaiden (US)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "shadoww"
+  },
+  "galaga": {
+    "name": "Galaga (Namco rev. B)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "galaxian": {
+    "name": "Galaxian (Namco set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "galspnbl": {
+    "name": "Gals Pinball",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "garou": {
+    "name": "Garou - Mark of the Wolves (NGM-2530)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "gnbarich": {
+    "name": "Gunbarich",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "gogomile": {
+    "name": "Susume! Mile Smile / Go Go! Mile Smile (newer)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "gp_110": {
+    "name": "Model 110",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "gq863": {
+    "name": "Twinkle System",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "gradius": {
+    "name": "Gradius (Japan, ROM version)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "nemesis"
+  },
+  "gradius3": {
+    "name": "Gradius III (World, version R)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "gundhara": {
+    "name": "Gundhara",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "gunfront": {
+    "name": "Gun & Frontier (World)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "hardyard": {
+    "name": "Hard Yardage (v1.20)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "heberpop": {
+    "name": "Hebereke no Popoon (Japan)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "hsf2": {
+    "name": "Hyper Street Fighter II: The Anniversary Edition (USA 040202)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "hyperspt": {
+    "name": "Hyper Sports",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "invaders": {
+    "name": "Space Invaders / Space Invaders M",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "isgsm": {
+    "name": "ISG Selection Master Type 2006 BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "jjsquawk": {
+    "name": "J. J. Squawkers",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "joust": {
+    "name": "Joust (Green label)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "karatblz": {
+    "name": "Karate Blazers (World, set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kbash": {
+    "name": "Knuckle Bash",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kof2000": {
+    "name": "The King of Fighters 2000 (NGM-2570 ~ NGH-2570)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kof2002": {
+    "name": "The King of Fighters 2002 (NGM-2650 ~ NGH-2650)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kof2003": {
+    "name": "The King of Fighters 2003 (NGM-2710, Export)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kof94": {
+    "name": "The King of Fighters '94 (NGM-055 ~ NGH-055)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kof95": {
+    "name": "The King of Fighters '95 (NGM-084)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kof96": {
+    "name": "The King of Fighters '96 (NGM-214)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kof97": {
+    "name": "The King of Fighters '97 (NGM-2320)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kof98": {
+    "name": "The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (NGM-2420)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kof99": {
+    "name": "The King of Fighters '99 - Millennium Battle (NGM-2510)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "konamigv": {
+    "name": "Baby Phoenix/GV System",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "konamigx": {
+    "name": "System GX",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kov": {
+    "name": "Knights of Valour / Sanguo Zhan Ji / Sangoku Senki (ver. 117, Hong Kong)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kungfum": {
+    "name": "Kung-Fu Master (World)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "kviper": {
+    "name": "Konami Viper BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "lastblad": {
+    "name": "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "lastbld2": {
+    "name": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430 ~ NGH-2430)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "liquidk": {
+    "name": "Liquid Kids (World)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "macross2": {
+    "name": "Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "magdrop3": {
+    "name": "Magical Drop III",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "magicbub": {
+    "name": "Magic Bubble",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "mappy": {
+    "name": "Mappy (US)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "maxrpm": {
+    "name": "Max RPM (ver 2)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "milliped": {
+    "name": "Millipede",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "mk": {
+    "name": "Mortal Kombat (rev 5.0 T-Unit 03/19/93)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "mk2": {
+    "name": "Mortal Kombat II (rev L3.1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "mk3": {
+    "name": "Mortal Kombat 3 (rev 2.1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "mk4b": {
+    "name": "Mortal Kombat 4 (version 1.0)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "mk4"
+  },
+  "mkla1": {
+    "name": "Mortal Kombat (rev 1.0 08/09/92)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "mk"
+  },
+  "mshvsfu1": {
+    "name": "Marvel Super Heroes Vs. Street Fighter (USA 970625)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "mshvsf"
+  },
+  "mslug": {
+    "name": "Metal Slug - Super Vehicle-001",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "mslug2": {
+    "name": "Metal Slug 2 - Super Vehicle-001/II (NGM-2410 ~ NGH-2410)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "mslug3": {
+    "name": "Metal Slug 3 (NGM-2560)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "mslugx": {
+    "name": "Metal Slug X - Super Vehicle-001 (NGM-2500 ~ NGH-2500)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "mspacman": {
+    "name": "Ms. Pac-Man",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "mutnat": {
+    "name": "Mutation Nation (NGM-014 ~ NGH-014)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "nbajam": {
+    "name": "NBA Jam (rev 3.01 4/07/93)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "nbajamte": {
+    "name": "NBA Jam Tournament Edition (rev 4.0 3/23/94)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "neodrift": {
+    "name": "Neo Drift Out - New Technology",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "neogeo": {
+    "name": "Neo-Geo MV-6F",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "nitd": {
+    "name": "Nightmare in the Dark",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "nss": {
+    "name": "Nintendo Super System BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "nwarru": {
+    "name": "Night Warriors: Darkstalkers' Revenge (USA 950406)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "nwarr"
+  },
+  "openice": {
+    "name": "NHL Open Ice: 2 on 2 Challenge (rev 1.21)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "outrun": {
+    "name": "Out Run (sitdown/upright, Rev B)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "pacman": {
+    "name": "Pac-Man (Midway)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "puckman"
+  },
+  "pacmania": {
+    "name": "Pac-Mania",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "pbobble": {
+    "name": "Puzzle Bobble (Japan, B-System)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "pbobble3": {
+    "name": "Puzzle Bobble 3 (Ver 2.1O 1996/09/27)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "penbros": {
+    "name": "Penguin Brothers (Japan)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "pengo": {
+    "name": "Pengo (World, not encrypted, rev A)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "pgm": {
+    "name": "PGM (Polygame Master) System BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "pigskin": {
+    "name": "Pigskin 621AD (rev 1.1K 8/01/90)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "pitfall2": {
+    "name": "Pitfall II (315-5093)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "polepos2": {
+    "name": "Pole Position II (Japan)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "preisle2": {
+    "name": "Prehistoric Isle 2",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "propcycl": {
+    "name": "Prop Cycle (World, PR2 Ver.A)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "punisher": {
+    "name": "The Punisher (World 930422)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "puyopuy2": {
+    "name": "Puyo Puyo 2 (Japan)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "qix": {
+    "name": "Qix (Rev 2)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "rallyx": {
+    "name": "Rally-X (32k Ver.?)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "rampage": {
+    "name": "Rampage (Rev 3, 8/27/86)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "rbff1": {
+    "name": "Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095 ~ NGH-095)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "rbffspec": {
+    "name": "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "roboarmy": {
+    "name": "Robo Army",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "robocop2": {
+    "name": "Robocop 2 (Euro/Asia v0.10)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "robotron": {
+    "name": "Robotron: 2084 (Release 5, solid blue label)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "rollerg": {
+    "name": "Rollergames (US)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "rshark": {
+    "name": "R-Shark (set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "rthun2": {
+    "name": "Rolling Thunder 2",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "rygar": {
+    "name": "Rygar (US set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "s1945": {
+    "name": "Strikers 1945 (World)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "s1945ii": {
+    "name": "Strikers 1945 II",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "s1945p": {
+    "name": "Strikers 1945 Plus",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "salamand": {
+    "name": "Salamander (version D)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "samsh5sp": {
+    "name": "Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "samsho": {
+    "name": "Samurai Shodown / Samurai Spirits (NGM-045)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "samsho2": {
+    "name": "Samurai Shodown II / Shin Samurai Spirits - Haohmaru Jigokuhen (NGM-063 ~ NGH-063)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "samsho3": {
+    "name": "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGM-087)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "samsho4": {
+    "name": "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222 ~ NGH-222)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "scontra": {
+    "name": "Super Contra (set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sengoku": {
+    "name": "Sengoku / Sengoku Denshou (NGM-017 ~ NGH-017)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sengoku2": {
+    "name": "Sengoku 2 / Sengoku Denshou 2",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sf": {
+    "name": "Street Fighter (US, set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sf2": {
+    "name": "Street Fighter II: The World Warrior (World 910522)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sf2ce": {
+    "name": "Street Fighter II': Champion Edition (World 920513)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sf2ceua": {
+    "name": "Street Fighter II': Champion Edition (USA 920313)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "sf2ce"
+  },
+  "sfa3u": {
+    "name": "Street Fighter Alpha 3 (USA 980904)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "sfa3"
+  },
+  "sfcbox": {
+    "name": "Super Famicom Box BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sftm": {
+    "name": "Street Fighter: The Movie (v1.12)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sftm110": {
+    "name": "Street Fighter: The Movie (v1.10)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "sftm"
+  },
+  "sfzbr1": {
+    "name": "Street Fighter Zero (Brazil 950727)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "sfa"
+  },
+  "shangon": {
+    "name": "Super Hang-On (sitdown/upright) (unprotected)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "shinobi": {
+    "name": "Shinobi (set 6, System 16A) (unprotected)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "shocktr2": {
+    "name": "Shock Troopers - 2nd Squad",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "shocktro": {
+    "name": "Shock Troopers (set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "shtzone": {
+    "name": "Shooting Zone System BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "shuuz": {
+    "name": "Shuuz (version 8.0)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "silentd": {
+    "name": "Silent Dragon (World)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sinistar": {
+    "name": "Sinistar (revision 3, upright)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "skullxbo": {
+    "name": "Skull & Crossbones (rev 5)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "smgp": {
+    "name": "Super Monaco GP (World, Rev B) (FD1094 317-0126a)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "snowbro2": {
+    "name": "Snow Bros. 2 - With New Elves / Otenki Paradise (Hanafram)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "snowbros": {
+    "name": "Snow Bros. - Nick & Tom (set 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "soldivid": {
+    "name": "Sol Divide: Sword Of Darkness",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sonicp": {
+    "name": "SegaSonic The Hedgehog (Japan, prototype)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "sonic"
+  },
+  "spy": {
+    "name": "S.P.Y.: Special Project Y. (World ver. N)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "stargate": {
+    "name": "Stargate",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "su2000": {
+    "name": "SU2000",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sys246": {
+    "name": "System 246 BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sys256": {
+    "name": "System 256 BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "sys573": {
+    "name": "System 573 BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "taitotz": {
+    "name": "Type Zero BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "tapper": {
+    "name": "Tapper (Budweiser, 1/27/84)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "tempest": {
+    "name": "Tempest (rev 3, Revised Hardware)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "tetris": {
+    "name": "Tetris (set 4, Japan, System 16A) (FD1094 317-0093)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "tetrisp2": {
+    "name": "Tetris Plus 2 (World, V2.8)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "thundfox": {
+    "name": "Thunder Fox (World, rev 1)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "timekill": {
+    "name": "Time Killers (v1.32)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "timeplt": {
+    "name": "Time Pilot",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "tknight": {
+    "name": "Tecmo Knight (US)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "wildfang"
+  },
+  "tmnt2": {
+    "name": "Teenage Mutant Ninja Turtles: Turtles in Time (4 Players ver UAA)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "tmnt22pu": {
+    "name": "Teenage Mutant Ninja Turtles: Turtles in Time (2 Players ver UDA)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "tmnt2"
+  },
+  "tmntu": {
+    "name": "Teenage Mutant Ninja Turtles (US 4 Players, version R)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "tmnt"
+  },
+  "tophuntr": {
+    "name": "Top Hunter - Roddy & Cathy (NGM-046)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "totcarn": {
+    "name": "Total Carnage (rev LA1 03/10/92)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "toutrun": {
+    "name": "Turbo Out Run (Out Run upgrade) (FD1094 317-0118)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "trackfld": {
+    "name": "Track & Field",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "triforce": {
+    "name": "Triforce BIOS",
+    "isBios": true,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "truxton2": {
+    "name": "Truxton II / Tatsujin Oh",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "tumblep": {
+    "name": "Tumble Pop (World)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "twinbee": {
+    "name": "TwinBee (ROM version)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "twinspri": {
+    "name": "Twinkle Star Sprites",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "umk3": {
+    "name": "Ultimate Mortal Kombat 3 (rev 1.2)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "vsav2": {
+    "name": "Vampire Savior 2: The Lord of Vampire (Japan 970913)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "vsavu": {
+    "name": "Vampire Savior: The Lord of Vampire (USA 970519)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "vsav"
+  },
+  "wh2": {
+    "name": "World Heroes 2 (ALM-006 ~ ALH-006)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "wh2j": {
+    "name": "World Heroes 2 Jet (ADM-007 ~ ADH-007)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "whp": {
+    "name": "World Heroes Perfect",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "wwfmania": {
+    "name": "WWF: Wrestlemania (rev 1.30 08/10/95)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "wwfwfest": {
+    "name": "WWF WrestleFest (World)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": null
+  },
+  "xmcotau": {
+    "name": "X-Men: Children of the Atom (USA 950105)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "xmcota"
+  },
+  "xmvsfb": {
+    "name": "X-Men Vs. Street Fighter (Brazil 961023)",
+    "isBios": false,
+    "isDevice": false,
+    "runnable": true,
+    "cloneof": "xmvsf"
+  },
+  "22vp931": {
+    "name": "Philips 22VP931",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "2816": {
+    "name": "Parallel EEPROM 2816 (2048x8)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "2864": {
+    "name": "Parallel EEPROM 2864 (8192x8)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "315_5296": {
+    "name": "Sega 315-5296 I/O",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "5a22": {
+    "name": "Ricoh 5A22",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "93c06_16": {
+    "name": "Serial EEPROM 93C06 (16x16)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "93c46_16": {
+    "name": "Serial EEPROM 93C46 (64x16)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "93c46_8": {
+    "name": "Serial EEPROM 93C46 (128x8)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "93c56_8": {
+    "name": "Serial EEPROM 93C56 (256x8)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ad7524": {
+    "name": "AD7524 DAC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ad7533": {
+    "name": "AD7533 DAC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "adaptator_multitap": {
+    "name": "The Adaptator 2x DE-9 Multitap",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "adc0804": {
+    "name": "ADC0804 A/D Converter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "adc0834": {
+    "name": "ADC0834 A/D Converter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "adc0844": {
+    "name": "ADC0844 A/D Converter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "address_map_bank": {
+    "name": "Address Map Bank",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "adsp2104": {
+    "name": "Analog Devices ADSP-2104",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "adsp2105": {
+    "name": "Analog Devices ADSP-2105",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "alpha_8921": {
+    "name": "Alpha denshi ALPHA-8921",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "am9517a": {
+    "name": "AM9517A",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ap2000": {
+    "name": "Epson ActionPrinter 2000",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "arm7_le": {
+    "name": "ARM7 (little)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "arm_cpu": {
+    "name": "ARM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "at_keyb": {
+    "name": "AT Keyboard",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ata_interface": {
+    "name": "ATA Interface",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ata_slot": {
+    "name": "ATA Connector",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "atacf": {
+    "name": "ATA CompactFlash Card",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "atarimo": {
+    "name": "Atari Motion Objects",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "atariscom": {
+    "name": "Atari Sound Communications",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "atarivad": {
+    "name": "Atari VAD",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "atjsa2": {
+    "name": "Atari JSA II Sound Board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "atjsa3": {
+    "name": "Atari JSA III Sound Board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "atmega168": {
+    "name": "Atmel ATmega168",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "avg_tempest": {
+    "name": "Atari AVG (Tempest)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ay8910": {
+    "name": "AY-3-8910A PSG",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "beep": {
+    "name": "Beep",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "bitmap_printer": {
+    "name": "Bitmap Printer Device",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "buffered_spriteram16": {
+    "name": "Buffered 16-bit Sprite RAM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "buffered_spriteram32": {
+    "name": "Buffered 32-bit Sprite RAM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "c140": {
+    "name": "Namco C140",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "c352": {
+    "name": "Namco C352",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "c6280": {
+    "name": "Hudson Soft HuC6280 PSG",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cdda": {
+    "name": "CD/DA",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cdrom": {
+    "name": "ATAPI CD-ROM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cdrom_image": {
+    "name": "CD-ROM Image",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "centronics": {
+    "name": "Centronics",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "centronics_chessmec": {
+    "name": "Tasc ChessMachine EC Interface",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "centronics_printer": {
+    "name": "Centronics Printer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "centronics_samdac": {
+    "name": "SAMDAC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "centronics_smartboard": {
+    "name": "Tasc SmartBoard SB30 Interface",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "chessmachine": {
+    "name": "Tasc ChessMachine",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "clock": {
+    "name": "Clock",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "comx_pl80": {
+    "name": "COMX PL-80",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "covox": {
+    "name": "Covox Speech Thing",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "covox_stereo": {
+    "name": "Covox (Stereo-in-1)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cp2024": {
+    "name": "Conner Peripherals CP-2024 hard disk",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cpcdigiblst": {
+    "name": "Digiblaster (DIY)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cr589": {
+    "name": "Matsushita CR589 CD-ROM Drive",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cxd1095": {
+    "name": "CXD1095 I/O Expander",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cxd8514q": {
+    "name": "CXD8514Q GPU",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cxd8530bq": {
+    "name": "Sony CXD8530BQ",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cxd8530cq": {
+    "name": "Sony CXD8530CQ",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cxd8561q": {
+    "name": "CXD8561Q GPU",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "cy7c131": {
+    "name": "Cypress CY7C131 8-bit Dual-Port SRAM with Interrupts",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "dac": {
+    "name": "1-Bit DAC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "dac_4bit_r2r": {
+    "name": "4-Bit R-2R DAC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "dac_8bit_r2r": {
+    "name": "8-Bit R-2R DAC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "dcs2_audio_2104": {
+    "name": "DCS2 Audio 2104",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "dcs_audio_2k": {
+    "name": "DCS Audio 2K",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "dcs_audio_8k": {
+    "name": "DCS Audio 8K",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "deco146": {
+    "name": "DECO 146 Protection",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "deco16ic": {
+    "name": "DECO 55 / 56 / 74 / 141 Tilemap Generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "deco_irq": {
+    "name": "Data East IRQ Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "decocpu7": {
+    "name": "DECO CPU-7",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "decospr": {
+    "name": "DECO 52 Sprite",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "discrete": {
+    "name": "Discrete Sound",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "dmadac": {
+    "name": "DMA-driven DAC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ds12885": {
+    "name": "DS12885 RTC/NVRAM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ds2430a": {
+    "name": "Dallas DS2430A 1-Wire EEPROM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "duart_channel": {
+    "name": "DUART channel",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "e05a03": {
+    "name": "Epson E05A03 Gate Array",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "e05a30": {
+    "name": "Epson E05A30 Gate Array",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "epson_fx80": {
+    "name": "Epson FX-80",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "epson_jx80": {
+    "name": "Epson JX-80",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "epson_rx80": {
+    "name": "Epson RX-80",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "er2055": {
+    "name": "ER2055 EAROM (64x8)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "er5911_8": {
+    "name": "Serial EEPROM ER5911 (128x8)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "es5505": {
+    "name": "Ensoniq ES5505",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "es5506": {
+    "name": "Ensoniq ES5506",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "es5510": {
+    "name": "Ensoniq ES5510",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "esq_5505_5510_pump": {
+    "name": "Ensoniq 5505/5506 to 5510 interface",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ex800": {
+    "name": "Epson EX-800",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "fd1094": {
+    "name": "Hitachi FD1094 Encrypted CPU",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "fdc37c665gt": {
+    "name": "FDC37C665GT",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "filter_biquad": {
+    "name": "Biquad Filter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "filter_rc": {
+    "name": "RC Filter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "fuukispr": {
+    "name": "Fuuki Sprite hardware",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "fuukitmap": {
+    "name": "Fuuki Tilemap hardware",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "galaxian_sound": {
+    "name": "Galaxian Custom Sound",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "generic_latch_8": {
+    "name": "Generic 8-bit latch",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "gfxdecode": {
+    "name": "gfxdecode",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "gp9001vdp": {
+    "name": "GP9001 VDP",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "h6280": {
+    "name": "Hudson Soft HuC6280",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "harddisk_image": {
+    "name": "Hard disk",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "hasp_savquest": {
+    "name": "Alladin HASP dongle for Savage Quest",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "hc259": {
+    "name": "74HC259 Addressable Latch",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "hc55516": {
+    "name": "HC-55516",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "hd6309e": {
+    "name": "Hitachi HD6309E",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "hd63701v0": {
+    "name": "Hitachi HD63701V0",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "hd63701y0": {
+    "name": "Hitachi HD63701Y0",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "hd63705z0": {
+    "name": "Hitachi HD63705Z0",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i4220": {
+    "name": "Imagetek I4220 071 VDP",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i486": {
+    "name": "Intel I486",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i8042ah": {
+    "name": "Intel 8042AH",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i8050": {
+    "name": "Intel 8050",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i8080": {
+    "name": "Intel 8080",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i80c32": {
+    "name": "Intel 80C32",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i8243": {
+    "name": "Intel 8243 I/O Expander",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i8251": {
+    "name": "Intel 8251 USART",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i8255": {
+    "name": "Intel 8255 PPI",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i8257": {
+    "name": "Intel 8257 DMA Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i8749": {
+    "name": "Intel 8749",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ics2115": {
+    "name": "ICS2115 WaveFront Synthesizer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "idehd": {
+    "name": "IDE Hard Disk",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "igs023": {
+    "name": "IGS023 Video System",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "input_buffer": {
+    "name": "Input Buffer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "invaders_audio": {
+    "name": "Taito Space Invaders Audio",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ipt_merge_all_hi": {
+    "name": "Input Merger (all high)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ipt_merge_any_hi": {
+    "name": "Input Merger (any high)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ipt_merge_any_lo": {
+    "name": "Input Merger (any low)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "jaleco_ms32_sysctrl": {
+    "name": "Jaleco MS32 System Control Unit",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k005289": {
+    "name": "Konami 005289 SCC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k007232": {
+    "name": "Konami 007232 PCM Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k051316": {
+    "name": "Konami 051316 PSAC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k051960": {
+    "name": "Konami 051960 Sprite Generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k052109": {
+    "name": "Konami 052109 Tilemap Generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k053244": {
+    "name": "Konami 053244/053245 Sprite Generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k053247": {
+    "name": "Konami 053246/053247 Sprite Generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k053251": {
+    "name": "Konami 053251 Priority Encoder",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k053252": {
+    "name": "Konami 053252 Timing/Interrupt Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k053260": {
+    "name": "Konami 053260 KDSC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k053936": {
+    "name": "Konami 053936 PSAC2 tilemap generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k054338": {
+    "name": "Konami 054338 Mixer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k054539": {
+    "name": "Konami 054539 ADPCM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k055555": {
+    "name": "Konami 055555 Priority Encoder",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k055673": {
+    "name": "Konami 055673 Sprite Generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k056230_viper": {
+    "name": "Konami Viper LANC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k056800": {
+    "name": "Konami 056800 MIRAC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k056832": {
+    "name": "Konami 056832 Tilemap Generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k572cassslot": {
+    "name": "Konami 573 Cassette Slot",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k573mcr": {
+    "name": "Konami 573 Memory Card Reader",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "k573msu": {
+    "name": "Konami 573 Multi Session Unit",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "kaneko_pandora": {
+    "name": "Kaneko PANDORA Sprite Generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "kbdc8042": {
+    "name": "8042 Keyboard/Mouse Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "konami1": {
+    "name": "KONAMI-1",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "konami_cpu": {
+    "name": "KONAMI CPU",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "latch8": {
+    "name": "8-bit latch",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ldv1000": {
+    "name": "Pioneer LD-V1000",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ls157": {
+    "name": "74LS157 Quad 2-to-1 Multiplexer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ls259": {
+    "name": "74LS259 Addressable Latch",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "lx800": {
+    "name": "Epson LX-800",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "lx810l": {
+    "name": "Epson LX-810L",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "lz8420m": {
+    "name": "Sharp LZ8420M",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m37710s4": {
+    "name": "Mitsubishi M37710S4",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m48t58": {
+    "name": "M48T58 Timekeeper",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m50458": {
+    "name": "Mitsubishi M50458 OSD",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m62_audio": {
+    "name": "Irem M62 Audio",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m6502": {
+    "name": "MOS Technology 6502",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m68000": {
+    "name": "Motorola MC68000",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m6802": {
+    "name": "Motorola MC6802",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m6803": {
+    "name": "Motorola MC6803",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m6808": {
+    "name": "Motorola MC6808",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m68ec020": {
+    "name": "Motorola MC68EC020",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m6m80011ap": {
+    "name": "M6M80011AP EEPROM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "m72_audio": {
+    "name": "Irem M72 Audio",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mathbox": {
+    "name": "Atari MATHBOX",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mb14241": {
+    "name": "MB14241 Data Shifter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mb3773": {
+    "name": "MB3773 Power Supply Monitor",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mb8421": {
+    "name": "Fujitsu MB8421 8-bit Dual-Port SRAM with Interrupts",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mb87078": {
+    "name": "Fujitsu MB87078 Volume Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mb8843": {
+    "name": "Fujitsu MB8843",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mb8844": {
+    "name": "Fujitsu MB8844",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mb8884": {
+    "name": "Fujitsu MB8884",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mb89371": {
+    "name": "MB89371 Dual Serial UART",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mb90082": {
+    "name": "Fujitsu MB90082 OSD",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mb91f155a": {
+    "name": "Fujitsu MB91F155A",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mbm29f016a": {
+    "name": "Fujitsu MBM29F016A Flash",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mc1408": {
+    "name": "MC1408 DAC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mc6809": {
+    "name": "Motorola MC6809",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mc6809e": {
+    "name": "Motorola MC6809E",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mc6845": {
+    "name": "Motorola MC6845 CRTC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mc68681": {
+    "name": "MC68681 DUART",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mc68hc11a1": {
+    "name": "Motorola MC68HC11A1",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "micom_xe_1a": {
+    "name": "Dempa Micom Soft Analog/Digital Intelligent Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "midsg": {
+    "name": "Midway Sounds Good Sound Board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "midssio": {
+    "name": "Midway SSIO Sound Board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "midtcs": {
+    "name": "Midway Turbo Cheap Squeak Sound Board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "midway_ioasic": {
+    "name": "Midway IOASIC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "midway_serial_pic_emu": {
+    "name": "Midway Serial PIC Emulation",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "midway_serial_pic_sim": {
+    "name": "Midway Serial PIC Simulation",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mie": {
+    "name": "Sega 315-6146 MIE",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mos6522": {
+    "name": "MOS 6522 VIA",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mpc8240": {
+    "name": "IBM PowerPC MPC8240",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ms32spr": {
+    "name": "Jaleco Megasystem 32 Sprite hardware",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "msm5205": {
+    "name": "OKI MSM5205 ADPCM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "msm6253": {
+    "name": "OKI MSM6253 A/D Converter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mz1p16": {
+    "name": "Sharp MZ-1P16 Plotter Printer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "n64_periphs": {
+    "name": "N64 Peripheral Chips",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "n82077aa": {
+    "name": "Intel N82077AA FDC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco06": {
+    "name": "Namco 06xx",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco50": {
+    "name": "Namco 50xx",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco51": {
+    "name": "Namco 51xx",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco52": {
+    "name": "Namco 52xx",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco53": {
+    "name": "Namco 53xx",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco54": {
+    "name": "Namco 54xx",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco56": {
+    "name": "Namco 56xx I/O",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco58": {
+    "name": "Namco 58xx I/O",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco62": {
+    "name": "Namco 62xx",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco_05xx_starfield": {
+    "name": "Namco 05xx Starfield",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco_15xx": {
+    "name": "Namco 15xx",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco_c116": {
+    "name": "Namco C116 Video Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco_c117": {
+    "name": "Namco C117 MMU",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco_c123tmap": {
+    "name": "Namco C123 (4x + 2x Tilemaps)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco_c139": {
+    "name": "Namco C139 Serial",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco_c148": {
+    "name": "Namco C148 Interrupt Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco_cus30": {
+    "name": "Namco CUS30",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namco_wsg": {
+    "name": "Namco WSG",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namcoc65": {
+    "name": "Namco C65 I/O",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namcoc71": {
+    "name": "Namco C71 (TMS320C25)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namcos1_sprite": {
+    "name": "Namco System 1 Sprites (CUS39, CUS35/CUS48)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namcos2_roz": {
+    "name": "Namco System 2 ROZ (C102)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "namcos2_sprite": {
+    "name": "Namco System 2 Sprites (C106,C134,C135,C146)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ncr53cf96": {
+    "name": "NCR 53CF96-2 Fast SCSI Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_bangbead": {
+    "name": "Neo Geo Bangbead CMC42 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_ct2k3": {
+    "name": "Neo Geo CTHD 2003 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_ct2k3sa": {
+    "name": "Neo Geo CTHD 2003 Sp Alt Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_ct2k3sp": {
+    "name": "Neo Geo CTHD 2003 Sp Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_fatfury2": {
+    "name": "Neo Geo Fatal Furty 2 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_ganryu": {
+    "name": "Neo Geo Ganryu CMC42 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_garou": {
+    "name": "Neo Geo Garou SMA Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_garoubl": {
+    "name": "Neo Geo Garou Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_garouh": {
+    "name": "Neo Geo Garou AES SMA Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_jockeygp": {
+    "name": "Neo Geo Jockey GP CMC50 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kf10thep": {
+    "name": "Neo Geo KoF 10th Ann. EP Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kf2k2mp": {
+    "name": "Neo Geo KoF 2002 MP Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kf2k2mp2": {
+    "name": "Neo Geo KoF 2002 MP2 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kf2k2pls": {
+    "name": "Neo Geo KoF 2002 Plus Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kf2k3bl": {
+    "name": "Neo Geo KoF 2003 Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kf2k3pl": {
+    "name": "Neo Geo KoF 2003 PL Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kf2k3upl": {
+    "name": "Neo Geo KoF 2003 UPL Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kf2k4se": {
+    "name": "Neo Geo KoF 2004 SE Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kf2k5uni": {
+    "name": "Neo Geo KoF 2005 Unique Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof10th": {
+    "name": "Neo Geo KoF 10th Ann. Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof2000": {
+    "name": "Neo Geo KoF 2000 SMA Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof2000n": {
+    "name": "Neo Geo KoF 2000 CMC50 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof2001": {
+    "name": "Neo Geo KoF 2001 CMC50 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof2002": {
+    "name": "Neo Geo KoF 2002 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof2002b": {
+    "name": "Neo Geo KoF 2002 Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof2003": {
+    "name": "Neo Geo KoF 2003 PVC Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof2003h": {
+    "name": "Neo Geo KoF 2003 AES PVC Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof97oro": {
+    "name": "Neo Geo KoF 97 Orochi Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof98": {
+    "name": "Neo Geo KoF 98 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof99": {
+    "name": "Neo Geo KoF 99 SMA Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kof99k": {
+    "name": "Neo Geo KoF 99 Korea CMC42 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_kog": {
+    "name": "Neo Geo King of Gladiators Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_lans2004": {
+    "name": "Neo Geo Lansquenet 2004 Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_matrim": {
+    "name": "Neo Geo Matrimelee Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_matrimbl": {
+    "name": "Neo Geo Matrimelee Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_ms4plus": {
+    "name": "Neo Geo Metal Slug 4 Plus PCM2 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_ms5plus": {
+    "name": "Neo Geo Metal Slug 5 Plus Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_mslug3": {
+    "name": "Neo Geo Metal Slug 3 SMA Cart (green)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_mslug3a": {
+    "name": "Neo Geo Metal Slug 3 SMA Cart (white)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_mslug3b6": {
+    "name": "Neo Geo Metal Slug 6 Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_mslug3h": {
+    "name": "Neo Geo Metal Slug 3 AES CMC42 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_mslug4": {
+    "name": "Neo Geo Metal Slug 3 PCM2 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_mslug5": {
+    "name": "Neo Geo Metal Slug 5 PVC Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_mslug5b": {
+    "name": "Neo Geo Metal Slug 5 Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_mslugx": {
+    "name": "Neo Geo Metal Slug X Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_nitd": {
+    "name": "Neo Geo NITD CMC42 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_pnyaa": {
+    "name": "Neo Geo Pnyaa PCM2 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_preisle2": {
+    "name": "Neo Geo Prehistoric Isle 2 CMC42 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_rom": {
+    "name": "Neo Geo Standard Carts",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_rotd": {
+    "name": "Neo Geo Rage of the Dragon PCM2 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_s1945p": {
+    "name": "Neo Geo Strikers 1945 Plus CMC42 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_samsh5sp": {
+    "name": "Neo Geo Samurai Shodown 5 Special Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_samsho5": {
+    "name": "Neo Geo Samurai Shodown 5 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_samsho5b": {
+    "name": "Neo Geo Samurai Shodown 5 Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_sbp": {
+    "name": "Neo Geo Super Bubble Pop Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_sengoku3": {
+    "name": "Neo Geo Sengoku 3 CMC42 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_svc": {
+    "name": "Neo Geo SNK vs Capcom PVC Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_svcboot": {
+    "name": "Neo Geo SVC Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_svcplus": {
+    "name": "Neo Geo SVC Plus Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_svcplusa": {
+    "name": "Neo Geo SVC Plus Alt Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_svcsplus": {
+    "name": "Neo Geo SVC S.Plus Bootleg Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_vliner": {
+    "name": "Neo Geo V-Liner Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neocart_zupapa": {
+    "name": "Neo Geo Zupapa CMC42 Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neogeo_cart_slot": {
+    "name": "Neo Geo Cartridge Slot",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neogeo_control_port": {
+    "name": "SNK Neo Geo controller port",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neogeo_ctrl_edge": {
+    "name": "SNK Neo Geo Edge Connector (Controller)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neogeo_joy": {
+    "name": "SNK Neo Geo Joystick",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neogeo_joyac": {
+    "name": "SNK Neo Geo Arcade Joystick",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neogeo_mj_ac": {
+    "name": "SNK Neo Geo Arcade Mahjong panel",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neomania_adapter": {
+    "name": "Neo Mania Adapter JAMMA board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "neosprite_opt": {
+    "name": "Neo-Geo Sprites (optimized)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "netlist_sound": {
+    "name": "Netlist Sound Device",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_cmc_prot": {
+    "name": "Neo Geo CMC42/CMC40 Protection",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_cthd_prot": {
+    "name": "Neo Geo CTHD Protection (bootleg)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_fatfury_prot": {
+    "name": "Neo Geo Fatal Fury 2 Protection",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_kof2002_prot": {
+    "name": "Neo Geo KoF 2002 Protection",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_kof2k3bl_prot": {
+    "name": "Neo Geo KoF 2003 Bootleg Protection",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_kof98_prot": {
+    "name": "Neo Geo KoF 98 Protection",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_memcard": {
+    "name": "NeoGeo Memory Card",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_mslugx_prot": {
+    "name": "Neo Geo Metal Slug X Protection",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_pcm2_prot": {
+    "name": "Neo Geo NEOPCM2 Protection",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_pvc_prot": {
+    "name": "Neo Geo PVC Protection",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ng_sma_prot": {
+    "name": "Neo Geo SMA Protection",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ngboot_prot": {
+    "name": "Neo Geo Bootleg Protection(s)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nl_logic_in": {
+    "name": "Netlist Logic Input",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nl_stream_in": {
+    "name": "Netlist Stream Input",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nl_stream_out": {
+    "name": "Netlist Stream Output",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nlq401": {
+    "name": "Schneider NLQ 401 Matrix Printer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nmk112": {
+    "name": "NMK112",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nmk16spr": {
+    "name": "NMK 16 bit Sprite hardware",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nmk_irq": {
+    "name": "NMK IRQ Generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ns16550": {
+    "name": "National Semiconductor NS16550 UART",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nscsi_bus": {
+    "name": "SCSI Bus (new)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nvram": {
+    "name": "NVRAM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nxm5401": {
+    "name": "XM-5401B 4x CD-ROM (New)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "okim6295": {
+    "name": "OKI MSM6295 ADPCM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "output_latch": {
+    "name": "Output Latch",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "p72": {
+    "name": "NEC PinWriter P72",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "palette": {
+    "name": "palette",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pc16552d": {
+    "name": "National Semiconductor PC16552D UART",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pc6022": {
+    "name": "NEC PC-6022 Color Plotter Printer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pc_lpt": {
+    "name": "PC LPT",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pccard": {
+    "name": "PC Card Slot",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pci_bus_legacy": {
+    "name": "PCI Bus Legacy",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pia6821": {
+    "name": "6821 PIA",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pic16c57": {
+    "name": "Microchip PIC16C57",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pic8259": {
+    "name": "Intel 8259 PIC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pit8254": {
+    "name": "Intel 8254 PIT",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pit_counter": {
+    "name": "PIT Counter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pokey": {
+    "name": "Atari C012294 POKEY",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "polepos_sound": {
+    "name": "Pole Position Custom Sound",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "polepos_wsg": {
+    "name": "Namco Pole Position WSG",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ppc603": {
+    "name": "IBM PowerPC 603",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ppc603e": {
+    "name": "IBM PowerPC 603E",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pr8210": {
+    "name": "Pioneer PR-8210",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "printer_image": {
+    "name": "Printer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psxdma": {
+    "name": "Sony PSX DMA",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psxirq": {
+    "name": "Sony PSX IRQ",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psxmdec": {
+    "name": "Sony PSX MDEC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psxrcnt": {
+    "name": "Sony PSX RCNT",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psxsio0": {
+    "name": "Sony PSX SIO-0",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psxsio1": {
+    "name": "Sony PSX SIO-1",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psxspu": {
+    "name": "PlayStation SPU",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ptm6840": {
+    "name": "MC6840 PTM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "px320a": {
+    "name": "PleXCombo PX-320A CD-RW/DVD-ROM Drive",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "qsound": {
+    "name": "QSound",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "qsound_hle": {
+    "name": "QSound (HLE)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "r5000le": {
+    "name": "MIPS R5000 (little)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ram": {
+    "name": "RAM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rf5c400": {
+    "name": "Ricoh RF5C400",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rf5c68": {
+    "name": "Ricoh RF5C68",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rp5h01": {
+    "name": "RP5H01 6/7-bit Counter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rs232": {
+    "name": "RS-232 Port",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rshark_rom_tilemap": {
+    "name": "R-Shark ROM Tilemap",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rsp": {
+    "name": "Nintendo & SGI Reality Signal Processor RSP",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rst_neg_buffer": {
+    "name": "RST Interrupt Buffer (negative modification)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rtc65271": {
+    "name": "Epson RTC-65271 RTC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "s11c_bg": {
+    "name": "Williams System 11C Background Audio Board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "s32comm": {
+    "name": "System 32 Communication Board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "s3520cf": {
+    "name": "Seiko Epson S-3520CF RTC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "s_dsp": {
+    "name": "Nintendo/Sony S-DSP",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "s_smp": {
+    "name": "Nintendo/Sony S-SMP",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "samples": {
+    "name": "Samples",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "screen": {
+    "name": "Video Screen",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega315_5124": {
+    "name": "Sega 315-5124 SMS1 VDP",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega315_5313": {
+    "name": "Sega 315-5313 Megadrive VDP",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega8_4pak": {
+    "name": "SMS 4-Pak Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega8_codemasters": {
+    "name": "Mark III, SMS & GG Codemasters Carts",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega8_hicom": {
+    "name": "SMS Hi-Com Carts",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega8_janggun": {
+    "name": "SMS Janggun Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega8_korean": {
+    "name": "SMS Korean Carts",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega8_korean_188": {
+    "name": "SMS Korean 188 in 1 Multicart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega8_korean_nb": {
+    "name": "SMS Korean No-Bank Mapper Carts",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega8_nemesis": {
+    "name": "SMS Nemesis Cart",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega8_rom": {
+    "name": "SG-1000, SMS & GG Carts",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega8_zemina": {
+    "name": "SMS Zemina Carts",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega_315_5093": {
+    "name": "Sega 315-5093",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega_315_5195": {
+    "name": "Sega 315-5195 Memory Mapper",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega_315_5218": {
+    "name": "Sega 315-5218 PCM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega_315_5248": {
+    "name": "Sega 315-5248 Multiplier",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega_315_5249": {
+    "name": "Sega 315-5249 Divider",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega_315_5250": {
+    "name": "Sega 315-5250 Compare/Timer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega_outrun_sprite": {
+    "name": "Sega Custom Sprites (Out Run)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega_sys16a_sprite": {
+    "name": "Sega System 16A Sprites",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega_sys16b_sprite": {
+    "name": "Sega System 16B Sprites",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sega_xboard_sprite": {
+    "name": "Sega X-Board Sprites",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "segaic16_road": {
+    "name": "Sega 16-bit Road Generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "segaic16_video": {
+    "name": "Sega 16-bit Video",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "segapsg": {
+    "name": "Sega VDP PSG",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "segas32_pcb_analog": {
+    "name": "Sega System 32 analog PCB",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "segas32_pcb_trackball": {
+    "name": "Sega System 32 trackball PCB",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "segas32_pcb_v25": {
+    "name": "Sega System 32 V25 PCB",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "segaxbd_pcb_aburner2": {
+    "name": "Sega X-Board PCB (After Burner)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "segaxbd_pcb_smgp_fd1094": {
+    "name": "Sega X-Board PCB (SMGP, FD1094)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sensorboard": {
+    "name": "Sensorboard",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sh2_7604": {
+    "name": "Hitachi SH-2 (SH7604)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "simutrek": {
+    "name": "Simutrek Modified PR-8210",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_cart_slot": {
+    "name": "Sega Master System Cartridge Slot",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_control_port": {
+    "name": "Sega 9-pin I/O port",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_diypaddle": {
+    "name": "raphnet DIY SMS/Mark III Paddle Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_graphic": {
+    "name": "Sega Master System Graphic Board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_hypershot": {
+    "name": "Konami Hyper Shot (JE 502/JE 503, Sega)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_joypad": {
+    "name": "Sega Master System Control Pad",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_light_phaser": {
+    "name": "Sega Master System Light Phaser",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_md6button": {
+    "name": "Sega Mega Drive Six Button Control Pad",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_mdpad": {
+    "name": "Sega Mega Drive Control Pad",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_megamouse": {
+    "name": "Sega Mega Mouse (US)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_multitap": {
+    "name": "Furrtek Sega Master System Multitap",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_paddle": {
+    "name": "Sega Mark III Paddle (Japan)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_rapid_fire": {
+    "name": "Sega Master System Rapid Fire Unit",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_rs232": {
+    "name": "Mega Drive RS-232 Adapter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_segamouse": {
+    "name": "Sega Mega Drive Mouse (World)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_sports_pad": {
+    "name": "Sega SMS Sports Pad (US)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_sports_pad_jp": {
+    "name": "Sega Mark III Sports Pad (Japan)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_teamplayer": {
+    "name": "Sega Mega Drive 4-Player Adaptor",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sms_xe1ap": {
+    "name": "Dempa Micom Soft Analog Controller (XE-1AP, Sega)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sn76477": {
+    "name": "TI SN76477 CSG",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sn76489a": {
+    "name": "SN76489A",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "snes_ppu": {
+    "name": "SNES PPU",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "software_list": {
+    "name": "Software List",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "speaker": {
+    "name": "Speaker",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "stepper": {
+    "name": "Stepper Motor",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sys573_jvs_host": {
+    "name": "JVS Host (System 573)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "taito_en": {
+    "name": "Taito Ensoniq Sound System",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tasc_sb30": {
+    "name": "Tasc SmartBoard SB30",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tc0100scn": {
+    "name": "Taito TC0100SCN",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tc0140syt": {
+    "name": "Taito TC0140SYT",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tc0180vcu": {
+    "name": "Taito TC0180VCU",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tc0220ioc": {
+    "name": "Taito TC0220IOC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tc0360pri": {
+    "name": "Taito TC0360PRI",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tc0480scp": {
+    "name": "Taito TC0480SCP",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tc0510nio": {
+    "name": "Taito TC0510NIO",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tc0640fio": {
+    "name": "Taito TC0640FIO",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "te7750": {
+    "name": "TE7750 Super I/O Expander",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tecmo_mix": {
+    "name": "Tecmo 16-bit Mixer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tecmo_spr": {
+    "name": "Tecmo Chained Sprites",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ticket_dispenser": {
+    "name": "Ticket Dispenser",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tilemap": {
+    "name": "Tilemap",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "timer": {
+    "name": "Timer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "timplt_audio": {
+    "name": "Time Pilot Audio",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tmp68301": {
+    "name": "Toshiba TMP68301",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tmp95c063": {
+    "name": "Toshiba TMP95C063",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tms1025": {
+    "name": "TMS1025 I/O Expander",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tms320c32": {
+    "name": "Texas Instruments TMS320C32",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tms34010": {
+    "name": "Texas Instruments TMS34010",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tms57002": {
+    "name": "Texas Instruments TMS57002 \"DASP\"",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "toaplan_coincounter": {
+    "name": "Toaplan Coin Counter",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "toaplan_txtilemap": {
+    "name": "Toaplan Text tilemap generator",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "trackfld_audio": {
+    "name": "Track And Field Audio",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "tunitvid": {
+    "name": "Midway T-Unit Video",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "upd4701a": {
+    "name": "uPD4701A Incremental Encoder",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "upd4990a": {
+    "name": "uPD4990A RTC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "upd7751": {
+    "name": "NEC uPD7751",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "upd7759": {
+    "name": "NEC uPD7759",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "upd7801": {
+    "name": "NEC uPD7801",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "upd7810": {
+    "name": "NEC uPD7810",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "v25": {
+    "name": "NEC V25",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "v3021": {
+    "name": "EM Microelectronic-Marin SA V3021 RTC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "v33": {
+    "name": "NEC V33",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "v35": {
+    "name": "NEC V35",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "v60": {
+    "name": "NEC V60",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vcs_control_port": {
+    "name": "Atari VCS controller port",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vector_device": {
+    "name": "VECTOR",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vga": {
+    "name": "VGA",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vlm5030": {
+    "name": "Sanyo VLM5030",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "voodoo_3": {
+    "name": "3dfx Voodoo 3",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vr4300be": {
+    "name": "NEC VR4300 (big)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vs9209": {
+    "name": "VS9209 I/O",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vsystem2_spr": {
+    "name": "Video System VS8904/VS8905 Sprites",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vsystem_gga": {
+    "name": "Video System C7-01 GGA",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vsystem_spr": {
+    "name": "Video System VS9108 Sprites",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "watchdog": {
+    "name": "Watchdog Timer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "williams_blitter_sc1_device": {
+    "name": "Williams Blitter (SC1)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "wmsadpcm": {
+    "name": "Williams ADPCM Sound Board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "wunitvid": {
+    "name": "Midway W-Unit Video",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "x1_001": {
+    "name": "Seta X1-001 Sprites",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "x1_010": {
+    "name": "Seta X1-010",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "x1_012": {
+    "name": "Seta X1-012 Tile Layer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "x1_020_dx_101": {
+    "name": "Allumer X1-020/NEC DX-101 Video",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "xm3301": {
+    "name": "Toshiba XM-3301 CD-ROM Drive",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ym2151": {
+    "name": "YM2151 OPM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ym2203": {
+    "name": "YM2203 OPN",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ym2610": {
+    "name": "YM2610 OPNB",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ym2610b": {
+    "name": "YM2610B OPNB2",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ym3438": {
+    "name": "YM3438 OPN2C",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ym3526": {
+    "name": "YM3526 OPL",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ym3812": {
+    "name": "YM3812 OPL2",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ymf278b": {
+    "name": "YMF278B OPL4",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ymz280b": {
+    "name": "Yamaha YMZ280B PCMD8",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "z180asci_channel_0": {
+    "name": "Z180 ASCI Channel 0",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "z180asci_channel_1": {
+    "name": "Z180 ASCI Channel 1",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "z180csio": {
+    "name": "Z180 CSIO",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "z80": {
+    "name": "Zilog Z80",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "z8002": {
+    "name": "Zilog Z8002",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "z80180": {
+    "name": "Zilog Z80180",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "z80ctc": {
+    "name": "Z80 CTC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "z80ctc_channel": {
+    "name": "Z80 CTC Channel",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "z80pio": {
+    "name": "Z80 PIO",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "zip100_ide": {
+    "name": "Iomega Zip 100MB IDE Drive",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "acia6850": {
+    "name": "MC6850 ACIA",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "atari_cx85": {
+    "name": "Atari CX85 Numeric Keypad",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "atari_trakball": {
+    "name": "Atari CX22/CX80 Trak-Ball",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "auto3a_terminal": {
+    "name": "Auto-baud ADM-3A Terminal",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ay8913": {
+    "name": "AY-3-8913 PSG",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "bitbanger": {
+    "name": "Bitbanger",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "dec_rs232_loopback": {
+    "name": "RS-232 Loopback (DEC 12-15336-00)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "generic_keyboard": {
+    "name": "Generic Keyboard",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "hd6303r": {
+    "name": "Hitachi HD6303R",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "hd6303x": {
+    "name": "Hitachi HD6303X",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "heath_tlb_connector": {
+    "name": "Heath Terminal Logic board connector abstraction",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i8031": {
+    "name": "Intel 8031",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "i8035": {
+    "name": "Intel 8035",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ie15_cpu": {
+    "name": "ie15 CPU",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ie15_device": {
+    "name": "IE15",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ie15_terminal": {
+    "name": "IE15 Terminal",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ie15kbd": {
+    "name": "15WWW-97-006 Keyboard",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "ins8250": {
+    "name": "National Semiconductor INS8250 UART",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mm74c923": {
+    "name": "MM74C923 20-Key Encoder",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mockingboardd": {
+    "name": "Sweet Micro Systems Mockingboard D",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "nss_tvinterface": {
+    "name": "Novag Super System TV Interface",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "null_modem": {
+    "name": "RS-232 Null Modem",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pcf8573": {
+    "name": "PCF8573 RTC with Power Fail Detector",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "pseudo_terminal": {
+    "name": "Pseudo Terminal",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psx_analog_joystick": {
+    "name": "Playstation Analog Joystick",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psx_controller_port": {
+    "name": "Playstation Controller Port",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psx_dualshock_pad": {
+    "name": "Playstation Dualshock Pad",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psx_multitap": {
+    "name": "Playstation Multitap",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psx_standard_controller": {
+    "name": "Playstation Standard Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "psxcard": {
+    "name": "Sony PSX Memory Card",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rs232_loopback": {
+    "name": "RS-232 Loopback",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rs232_mouse_hle_msystems": {
+    "name": "Mouse Systems Non-rotatable Mouse (HLE)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rs232_patch_box": {
+    "name": "RS-232 Patch Box",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rs232_sync_io": {
+    "name": "RS-232 Synchronous I/O",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "rs_serial_printer": {
+    "name": "Radio Shack Serial Printer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "s97801_device": {
+    "name": "Siemens 97801 Terminal",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "s97801_kbd": {
+    "name": "Siemens 97801 Keyboard (International V1)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "s97801_terminal": {
+    "name": "Siemens 97801 Terminal (RS-232)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "scn2661b": {
+    "name": "Signetics SCN2661B EPCI",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "scn2672": {
+    "name": "Signetics SCN2672 PVTC",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "scorpion_ic": {
+    "name": "Micro-Robotics Scorpion Intelligent Controller",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "serial_heath_h19": {
+    "name": "Heath H19 Terminal (Serial Port)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "serial_keyboard": {
+    "name": "Serial Keyboard",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "serial_printer": {
+    "name": "Serial Printer",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "serial_terminal": {
+    "name": "Serial Terminal",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "serial_votraxtnt": {
+    "name": "Votrax Type 'N Talk (Serial Port)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sunkbd": {
+    "name": "Sun Keyboard Port",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "sunkbd_adaptor": {
+    "name": "Sun Keyboard Adaptor",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "swtpc8212_device": {
+    "name": "SWTPC8212",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "swtpc8212_terminal": {
+    "name": "SWTPC8212 Terminal",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vcs_joystick": {
+    "name": "Atari / CBM Digital joystick",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vcs_joystick_booster": {
+    "name": "CBS Electronics Booster-Grip Joystick Adaptor",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vcs_keypad": {
+    "name": "Atari / CBM Keypad",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vcs_lightpen": {
+    "name": "Atari / CBM Light Pen",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vcs_mouse": {
+    "name": "Atari / CBM Mouse",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vcs_paddles": {
+    "name": "Atari / CBM Dual paddles",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "vcs_wheel": {
+    "name": "Atari / CBM Driving Wheel",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "votraxtnt": {
+    "name": "Votrax Type 'N Talk",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "votrsc01a": {
+    "name": "Votrax SC-01-A",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "heath_gp19_tlb": {
+    "name": "Heath Terminal Logic Board plus Northwest Digital Systems GP-19",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "heath_imaginator_tlb": {
+    "name": "Heath Terminal Logic Board plus Cleveland Codonics Imaginator I-100",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "heath_super19_tlb": {
+    "name": "Heath Terminal Logic Board w/Super19 ROM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "heath_superset_tlb": {
+    "name": "Heath Terminal Logic Board w/Superset ROM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "heath_tlb": {
+    "name": "Heath Terminal Logic Board",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "heath_ultra_tlb": {
+    "name": "Heath Terminal Logic Board w/Ultra ROM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "heath_watz_tlb": {
+    "name": "Heath Terminal Logic Board w/Watzman ROM",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "kbd_type2_hle": {
+    "name": "Sun Type 2 Keyboard (HLE)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "kbd_type3_hle": {
+    "name": "Sun Type 3 Keyboard (HLE)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "kbd_type4_hle": {
+    "name": "Sun Type 4 Keyboard (HLE)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "kbd_type5_hle_gb": {
+    "name": "Sun Type 5 Keyboard (Great Britain - HLE)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "kbd_type5_hle_jp": {
+    "name": "Sun Type 5 Keyboard (Japan - HLE)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "kbd_type5_hle_se": {
+    "name": "Sun Type 5 Keyboard (Sweden - HLE)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "kbd_type5_hle_us": {
+    "name": "Sun Type 5 Keyboard (U.S.A. - HLE)",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  },
+  "mm5740": {
+    "name": "MM5740 Keyboard Encoder",
+    "isBios": false,
+    "isDevice": true,
+    "runnable": false,
+    "cloneof": null
+  }
+}
