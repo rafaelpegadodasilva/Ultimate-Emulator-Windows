@@ -1,0 +1,19 @@
+# Dependências e artefatos locais
+node_modules/
+dist-win/
+ElectronData/
+*.log
+.DS_Store
+
+# Conteúdo pessoal ou de distribuição, nunca versionar
+ROMS/
+Database/
+Runtime/
+Lixeira - Jogos removidos/
+Arquivos Brutos/
+*.exe
+*.msi
+*.zip
+*.7z
+*.rar
+
