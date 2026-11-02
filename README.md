@@ -38,7 +38,7 @@ O pacote é hospedado no Google Drive para manter o arquivo grande fora do GitHu
 
 Este repositório mantém somente a divulgação do Ultimate Emulator para Windows, suas capturas e o link oficial de download. Os arquivos de programação e o pacote distribuído ficam fora desta página.
 
-Os aplicativos independentes para Windows serão apresentados em uma página separada, com um link próprio para cada aplicativo.
+Os aplicativos independentes para Windows estão na página separada [Aplicativos para Windows](https://github.com/rafaelpegadodasilva/Aplicativos-Windows), com um link próprio para cada aplicativo.
 
 ## Outros projetos
 
