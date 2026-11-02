@@ -1,40 +1,46 @@
 # Ultimate Emulator para Windows
 
-Aplicativo Windows x64 para organizar e executar jogos clássicos em uma biblioteca única. O projeto é dedicado somente ao emulador Windows. Capas, ROMs, saves e dados pessoais ficam fora do repositório; o pacote completo com capas é baixado exclusivamente pelo link do Google Drive.
+Emulador e biblioteca de jogos clássicos para Windows 10 e 11, com organização por plataforma, capas, favoritos, controles e suporte a diferentes sistemas.
+
+> Este repositório é uma página de divulgação e documentação. Não contém código-fonte, executáveis, instaladores, ROMs ou BIOS.
+
+![Ultimate Emulator para Windows — biblioteca](Captura%20de%20tela%202026-11-02%20143504.png)
+
+## Destaques
+
+- Biblioteca organizada por plataforma, com busca global e manual de ROMs.
+- Visualização em lista, grade e galeria.
+- Capas, favoritos, informações de jogos e filtros.
+- Suporte a teclado, controles, vibração compatível, turbo e cheats.
+- Saves e save states.
+- Interface em português do Brasil.
+- Compatível com diferentes núcleos e emuladores conforme a plataforma.
+
+## Capturas
+
+![Biblioteca do Ultimate Emulator para Windows](Captura%20de%20tela%202026-11-02%20143504.png)
+
+![Interface do Ultimate Emulator para Windows](Captura%20de%20tela%202026-11-02%20143526.png)
 
 ## Download
 
-[Baixar o Ultimate Emulator para Windows](https://drive.google.com/uc?export=download&id=18W3Oqag_MtgMBTJYcndkrVD22SMvL9hH)
+[Baixar Ultimate Emulator para Windows](https://drive.google.com/file/d/18W3Oqag_MtgMBTJYcndkrVD22SMvL9hH/view)
 
-O download é hospedado no Google Drive. O link acima é clicável e aponta diretamente para o arquivo compartilhado.
+O pacote é hospedado no Google Drive para manter o arquivo grande fora do GitHub. A distribuição não inclui ROMs pessoais. Use jogos e BIOS obtidos legalmente.
 
-## Informações
+## Requisitos
 
-- Versão do projeto: `1.5.18`
-- Compatibilidade: Windows 10/11, x64
-- 25 plataformas configuradas
-- Biblioteca atual exibida no ambiente de desenvolvimento: 487 jogos
-- Interface em português do Brasil
-- Busca global e busca manual de ROMs
-- Biblioteca em grade, lista e galeria
-- Suporte a teclado, controles, vibração compatível, turbo, cheats, saves e save states
-- Integração com RetroArch, MAME, Dolphin, DuckStation, PCSX2, PPSSPP e Vita3K
+- Windows 10 ou Windows 11, 64 bits.
+- Espaço adicional para jogos, capas e saves.
+- ROMs e BIOS obtidas legalmente pelo usuário.
 
-## Desenvolvimento
+## Projeto
 
-```powershell
-npm ci
-npm start
-```
+Este repositório mantém somente a divulgação do Ultimate Emulator para Windows, suas capturas e o link oficial de download. Os arquivos de programação e o pacote distribuído ficam fora desta página.
 
-Para gerar a pasta Windows:
+Os aplicativos independentes para Windows serão apresentados em uma página separada, com um link próprio para cada aplicativo.
 
-```powershell
-npm run build:dir
-```
+## Outros projetos
 
-O repositório contém somente o código-fonte. A pasta `Capas`, a pasta `ROMS`, o banco de dados pessoal da biblioteca, saves e os binários distribuídos ficam fora dele; o pacote completo com capas é obtido exclusivamente pelo link do Google Drive acima.
-
-## Execução portátil
-
-O pacote distribuído pode ser aberto pelo arquivo `Abrir Ultimate Emulator.cmd`. A biblioteca de jogos deve ser escolhida pelo próprio aplicativo ou colocada na pasta de ROMs definida no ambiente do usuário.
+- [Ultimate Emulator para macOS](https://github.com/rafaelpegadodasilva/Ultimate-Emulator-macOS)
+- [Canal Rafael_Info](https://www.youtube.com/@Rafael_info)
