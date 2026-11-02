@@ -1,6 +1,6 @@
 # Ultimate Emulator para Windows
 
-Aplicativo Windows x64 para organizar e executar jogos clássicos em uma biblioteca única. O projeto é dedicado somente ao emulador Windows; as capas acompanham o repositório para que a biblioteca seja apresentada completa. ROMs, saves e dados pessoais ficam fora dele.
+Aplicativo Windows x64 para organizar e executar jogos clássicos em uma biblioteca única. O projeto é dedicado somente ao emulador Windows. Capas, ROMs, saves e dados pessoais ficam fora do repositório; o pacote completo com capas é baixado exclusivamente pelo link do Google Drive.
 
 ## Download
 
@@ -38,4 +38,3 @@ O repositório contém somente o código-fonte. A pasta `Capas`, a pasta `ROMS`,
 ## Execução portátil
 
 O pacote distribuído pode ser aberto pelo arquivo `Abrir Ultimate Emulator.cmd`. A biblioteca de jogos deve ser escolhida pelo próprio aplicativo ou colocada na pasta de ROMs definida no ambiente do usuário.
-
